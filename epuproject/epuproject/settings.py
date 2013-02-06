@@ -140,6 +140,7 @@ INSTALLED_APPS = (
                   'django.contrib.admin',
                   'django.contrib.admindocs',
                   'epuproject',
+                  'uni_form',
                   )
 
 TEMPLATE_CONTEXT_PROCESSORS = [

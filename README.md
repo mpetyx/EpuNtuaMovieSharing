@@ -8,3 +8,5 @@ Based on @takiant's movies selection we will create a project that will:
 2) we will provide a social api ( facebook login ) so that we can also create our reviews and ratings and share those with each other
 3) the app will return recommendations based on our taste
 
+
+For Facebook we will use https://github.com/jgorset/facepy

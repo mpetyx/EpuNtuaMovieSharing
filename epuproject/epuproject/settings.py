@@ -139,9 +139,7 @@ INSTALLED_APPS = (
                   #    'allauth.socialaccount.providers.google',
                   'django.contrib.admin',
                   'django.contrib.admindocs',
-                  'engage',
-                  "athumb",
-                  'storages',
+                  'epuproject',
                   )
 
 TEMPLATE_CONTEXT_PROCESSORS = [

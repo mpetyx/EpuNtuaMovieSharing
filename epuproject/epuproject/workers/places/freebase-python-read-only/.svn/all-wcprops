@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/258/trunk
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/240/trunk/setup.py
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/88/trunk/COPYRIGHT
+END
+metaweb.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/203/trunk/metaweb.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/172/trunk/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/258/trunk/README
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/88/trunk/setup.cfg
+END

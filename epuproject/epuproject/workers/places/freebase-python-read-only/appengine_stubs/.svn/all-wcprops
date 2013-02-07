@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/88/trunk/appengine_stubs
+END
+urlparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/88/trunk/appengine_stubs/urlparse.py
+END
+cookielib.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/88/trunk/appengine_stubs/cookielib.py
+END
+urllib_stub.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/appengine_stubs/urllib_stub.py
+END

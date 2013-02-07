@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/258/trunk/examples/freebase-images-appengine/freebase/fcl
+END
+mktype.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/fcl/mktype.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/fcl/__init__.py
+END
+commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/fcl/commands.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/fcl/README.txt
+END
+fcl.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/258/trunk/examples/freebase-images-appengine/freebase/fcl/fcl.py
+END
+fbutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/fcl/fbutil.py
+END
+inspect.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/fcl/inspect.py
+END

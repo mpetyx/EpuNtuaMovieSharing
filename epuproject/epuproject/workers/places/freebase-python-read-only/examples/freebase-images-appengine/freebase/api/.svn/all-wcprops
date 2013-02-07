@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/203/trunk/examples/freebase-images-appengine/freebase/api
+END
+cookie_handlers.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/cookie_handlers.py
+END
+cookie_handlers.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/cookie_handlers.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/__init__.py
+END
+httpclients.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/httpclients.py
+END
+mqlkey.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/mqlkey.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/__init__.pyc
+END
+session.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/203/trunk/examples/freebase-images-appengine/freebase/api/session.py
+END
+httpclients.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/httpclients.pyc
+END
+mqlkey.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/mqlkey.pyc
+END
+session.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/105/trunk/examples/freebase-images-appengine/freebase/api/session.pyc
+END

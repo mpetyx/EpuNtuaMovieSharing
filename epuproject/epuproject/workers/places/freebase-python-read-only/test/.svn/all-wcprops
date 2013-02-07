@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/214/trunk/test
+END
+test_freebase.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/190/trunk/test/test_freebase.py
+END
+getlogindetails.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/192/trunk/test/getlogindetails.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/172/trunk/test/__init__.py
+END
+test_schema_manipulation.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/201/trunk/test/test_schema_manipulation.py
+END
+test_hardcore_schema_manipulation.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/214/trunk/test/test_hardcore_schema_manipulation.py
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/178/trunk/test/runtests.py
+END
